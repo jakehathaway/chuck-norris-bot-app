@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "Chuck Norris Bot",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "The bot that packs a Roundhouse kick.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "git+https://github.com/jakehathaway/chuck-norris-bot-app.git"
   },
   "keywords": [
     "slack",
     "bot"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "Jake Hathaway",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+    "url": "https://github.com/jakehathaway/chuck-norris-bot-app/issues"
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "homepage": "https://github.com/jakehathaway/chuck-norris-bot-app#readme",
   "engines": {
     "node": "5.1.1"
   },

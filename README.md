@@ -1,3 +1,17 @@
+# This is now owned by Chuck Norris Bot!
+
+
+
+
+
+
+
+
+
+
+
+
+
 # easy-peasy-bot
 
 ## The story of a (Slack)bot
